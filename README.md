@@ -1,6 +1,12 @@
 # threejs-lesson1
 First THREE.js lesson in Computer Graphics II course at MENDELU.
 
+- Project structure
+- Basic objects
+- Textures
+- Animations
+- Basic UI
+
 ## Getting started
 1. Go into `template` or `complete` folder
 2. `npm install`
