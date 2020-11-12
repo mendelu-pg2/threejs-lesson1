@@ -14,4 +14,4 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 
 Animation library: \
 https://github.com/tweenjs/tween.js/ \
-https://github.com/tweenjs/tween.js/blob/master/docs/user_guide.md - tutoriál
+https://github.com/tweenjs/tween.js/blob/master/docs/user_guide.md
