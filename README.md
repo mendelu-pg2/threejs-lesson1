@@ -21,3 +21,8 @@ https://threejs.org/docs/index.html#manual/en/introduction/Creating-a-scene
 Animation library: \
 https://github.com/tweenjs/tween.js/ \
 https://github.com/tweenjs/tween.js/blob/master/docs/user_guide.md
+
+## Additional tasks
+
+1. Create a forest with trees as cylinders.
+2. Animate the camera position and rotation to flow through the forest.
